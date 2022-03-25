@@ -11,7 +11,7 @@
 <hr>
 
 <h2 align="center" style="text-align:center;">Languages and Tools:</h2>
-<div style="display:flex; flex-wrap:wrap; justify-content: space-around;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 <a href="https://go.dev/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go&logoColor=#00ADD8"/>
 </a>
@@ -52,7 +52,7 @@
 <br>
 
 <h2 align="center" style="text-align:center;">Industrial world companies' tools knowledge:</h2>
-<div style="display:flex; flex-wrap:wrap; justify-content: space-around;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 
 <a href="https://go.dev/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Siemens-090909?style=for-the-badge&logo=Siemens&logoColor=#009999"/>
@@ -69,6 +69,9 @@
 
 <hr>
 <h2 align="center" style="text-align:center;">My statistics</h2>
+
+<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:left;display:block;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaratulyTemirbolat&count_private=true&show_icons=true&theme=radical&show_owner=true"/>
 </a>
@@ -76,6 +79,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:right;display:block;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratulyTemirbolat&layout=compact&theme=radical&langs_count=10&custom_title=Temirbolat's%20most%20used%20languages&card_width=445" />
 </a>
+
+</div>
 <hr>
 <br>
 <br>
