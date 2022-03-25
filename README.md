@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
-    <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/anime-welcome.gif" width="700" alt="Welcome gif page"/>
+    <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/anime-welcome.gif" width="850" alt="Welcome gif page"/>
   </a>
 </p>
 
