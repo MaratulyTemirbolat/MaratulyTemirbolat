@@ -16,35 +16,35 @@
   <img align="center" src="https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go&logoColor=#00ADD8"/>
 </a>
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://www.python.org/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=#3776AB"/>
 </a>
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://www.djangoproject.com/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=#092E20"/>
 </a>
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://www.javascript.com/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
 </a>
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://www.cplusplus.com/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"/>
 </a>
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://www.java.com/en/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=orange"/>
 </a>
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://www.postgresql.org/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql&logoColor=#4169E1"/>
 </a>
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://html.com/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=#E34F26"/>
 </a>
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://css-tricks.com/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=blue"/>
 </a>
 </div>
@@ -54,15 +54,15 @@
 <h2 align="center" style="text-align:center;">Industrial world companies' tools knowledge:</h2>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://www.siemens.com/global/en.html" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Siemens-090909?style=for-the-badge&logo=Siemens&logoColor=#009999"/>
 </a>
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://www.se.com/ww/en/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-SchneiderElectric-090909?style=for-the-badge&logo=SchneiderElectric&logoColor=#3DCD58"/>
 </a>
 
-<a href="https://go.dev/" style="text-align:left;display:block;">
+<a href="https://www.mitsubishielectric.com/en/index.html" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Mitsubishi-090909?style=for-the-badge&logo=Mitsubishi&logoColor=red"/>
 </a>
 </div>
@@ -125,7 +125,7 @@
 
 <hr>
 <p align="center">
-    <h2 align="center">Thank you for your time and See you</h2>
+    <h2 align="center">Thank you for your time and See you next time!</h2>
   <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
     <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/buy.gif" width="900" alt="Welcome gif page"/>
   </a>
