@@ -70,11 +70,11 @@
 <hr>
 <h2 style="text-align:center;">My statistics</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:left;display:block;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaratulyTemirbolat&count_private=true&show_icons=true&theme=radical&show_owner=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaratulyTemirbolat&count_private=true&show_icons=true&theme=radical&show_owner=true"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:right;display:block;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratulyTemirbolat&layout=compact&theme=radical&langs_count=10&custom_title=Temirbolat's%20most%20used%20languages&card_width=445" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratulyTemirbolat&layout=compact&theme=radical&langs_count=10&custom_title=Temirbolat's%20most%20used%20languages&card_width=445" />
 </a>
 
 <hr>
