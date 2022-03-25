@@ -34,6 +34,6 @@
 ### Thank you for your attention
 <p align="center">
   <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
-    <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/anime-welcome.gif" width="900" alt="Welcome gif page"/>
+    <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/buy.gif" width="900" alt="Welcome gif page"/>
   </a>
 </p>
