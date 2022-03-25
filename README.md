@@ -5,12 +5,12 @@
 </p>
 
 <hr>
-<h2 style="text-align:center;">About Me:</h2>
+<h2 align="center" style="text-align:center;">About Me:</h2>
 
 ## Hello! My name is Temirbolat. I'm a beginner software engineer. I mainly focus on Backend part (Go, Python(DRF)) but want to become an experienced Full Stack programmer. I'm also experienced with industrial programming. See the badges with my knowledge below (from top knowledge low one).
 <hr>
 
-<h2 style="text-align:center;">Languages and Tools:</h2>
+<h2 align="center" style="text-align:center;">Languages and Tools:</h2>
 <div style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 <a href="https://go.dev/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go&logoColor=#00ADD8"/>
@@ -51,7 +51,7 @@
 
 <br>
 
-<h2 style="text-align:center;">Industrial world companies' tools knowledge:</h2>
+<h2 align="center" style="text-align:center;">Industrial world companies' tools knowledge:</h2>
 <div style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 
 <a href="https://go.dev/" style="text-align:left;display:block;">
@@ -86,9 +86,9 @@
 <br>
 <br>
 <br>
+<br>
 
-
-<h2 style="text-align:center;">Follow Me On:</h2>
+<h2 align="center" style="text-align:center;">Follow Me On:</h2>
 <div style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 
 <a href="https://t.me/Temirbolat_Maratuly" style="text-align:left;display:block;">
