@@ -1,6 +1,7 @@
-[![Header](https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/welcome-anime.gif)](https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA)
 <p align="center">
-  <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/anime_gift_2.gif"  alt="Sublime's custom image"/>
+  <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
+    <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/anime_gift_2.gif"  alt="Welcome gif page"/>
+  </a>
 </p>
 
 About me
