@@ -1,15 +1,10 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
-    <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/anime_gift_2.gif"  alt="Welcome gif page"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
     <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/anime-welcome.gif" width="900" alt="Welcome gif page"/>
   </a>
 </p>
 
-About me
+## Hello! My name is Temirbolat. I'm a beginner software engineer.
 
 Languages and Tools
 
