@@ -20,10 +20,12 @@
 ![Siemens](https://img.shields.io/badge/-Siemens-090909?style=for-the-badge&logo=Siemens&logoColor=#009999)
 ![Mitsubishi](https://img.shields.io/badge/-Mitsubishi-090909?style=for-the-badge&logo=Mitsubishi&logoColor=red) -->
 
+<div style="text-align:center;">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaratulyTemirbolat&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
+<div style="text-align:center;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaratulyTemirbolat&layout=compact&theme=radical&langs_count=10&custom_title=Temirbolat's%20most%20used%20languages&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 ### Follow Me On:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Temirbolat_Maratuly)
@@ -31,8 +33,9 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/temirbolat009kz)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100009545323566)
 
-### Thank you for your attention
+
 <p align="center">
+    <h2>Thank you for your time</h2>
   <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
     <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/buy.gif" width="900" alt="Welcome gif page"/>
   </a>
