@@ -76,20 +76,29 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:right;display:block;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratulyTemirbolat&layout=compact&theme=radical&langs_count=10&custom_title=Temirbolat's%20most%20used%20languages&card_width=445" />
 </a>
+<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h2 align="center" style="text-align:center;">Follow Me On:</h2>
-<div style="display:flex; flex-wrap:wrap; justify-content: space-around;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 
 <a href="https://t.me/Temirbolat_Maratuly" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9/">
@@ -108,9 +117,7 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
+
 <hr>
 <p align="center">
     <h2 align="center">Thank you for your time and See you</h2>
