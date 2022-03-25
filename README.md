@@ -4,9 +4,11 @@
   </a>
 </p>
 
+<hr>
 <h2 align="center" style="text-align:center;">About Me:</h2>
 
 ## Hello! My name is Temirbolat. I'm a beginner software engineer. I mainly focus on Backend part (Go, Python(DRF)) but want to become an experienced Full Stack programmer. I'm also experienced with industrial programming. See the badges with my knowledge below (from top knowledge low one).
+<hr>
 
 <h2 align="center" style="text-align:center;">Languages and Tools:</h2>
 <div style="display:flex; flex-wrap:wrap; justify-content: space-around;">
@@ -65,6 +67,7 @@
 </a>
 </div>
 
+<hr>
 <h2 align="center" style="text-align:center;">My statistics</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:left;display:block;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaratulyTemirbolat&count_private=true&show_icons=true&theme=radical&show_owner=true"/>
