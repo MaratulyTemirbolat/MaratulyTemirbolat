@@ -68,7 +68,7 @@
 </div>
 
 <hr>
-<h2 style="text-align:center;">My statistics</h2>
+<h2 align="center" style="text-align:center;">My statistics</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats" style="text-align:left;display:block;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaratulyTemirbolat&count_private=true&show_icons=true&theme=radical&show_owner=true"/>
 </a>
@@ -77,7 +77,16 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaratulyTemirbolat&layout=compact&theme=radical&langs_count=10&custom_title=Temirbolat's%20most%20used%20languages&card_width=445" />
 </a>
 
-<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <h2 style="text-align:center;">Follow Me On:</h2>
 <div style="display:flex; flex-wrap:wrap; justify-content: space-around;">
@@ -99,19 +108,11 @@
 </a>
 </div>
 
+<br>
+<br>
 <hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <p align="center">
-    <h2>Thank you for your time</h2>
+    <h2 align="center">Thank you for your time and See you</h2>
   <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
     <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/buy.gif" width="900" alt="Welcome gif page"/>
   </a>
