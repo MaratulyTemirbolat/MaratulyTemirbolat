@@ -127,6 +127,6 @@
 <p align="center">
     <h2 align="center">Thank you for your time and See you next time!</h2>
   <a href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
-    <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/linda-golden-time-linda.gif" width="900" alt="Welcome gif page"/>
+    <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/linda-golden-time-linda.gif" width="800" alt="Welcome gif page"/>
   </a>
 </p>
