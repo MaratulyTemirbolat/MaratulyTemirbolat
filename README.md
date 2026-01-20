@@ -17,8 +17,9 @@
 
 <hr>
 
-<h2 align="center" style="text-align:center;">Languages and Tools:</h2>
+<h2 align="center" style="text-align:center;">Languages and Tools</h2>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
+
 <a href="https://www.python.org/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=#3776AB"/>
 </a>
@@ -27,29 +28,22 @@
   <img align="center" src="https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=#092E20"/>
 </a>
 
-<a href="https://www.javascript.com/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
-</a>
-
-<a href="https://www.cplusplus.com/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"/>
-</a>
-
-<a href="https://www.java.com/en/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=orange"/>
-</a>
-
 <a href="https://www.postgresql.org/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql&logoColor=#4169E1"/>
+  <img align="center" src="https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=#4169E1"/>
 </a>
 
-<a href="https://html.com/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=#E34F26"/>
+<a href="https://www.javascript.com/" style="text-align:left;display:block;">
+  <img align="center" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
 </a>
 
-<a href="https://css-tricks.com/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3&logoColor=blue"/>
+<a href="https://www.typescriptlang.org/" style="text-align:left;display:block;">
+  <img align="center" src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=#3178C6"/>
 </a>
+
+<a href="https://react.dev/" style="text-align:left;display:block;">
+  <img align="center" src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=#61DAFB"/>
+</a>
+
 </div>
 
 <br>
@@ -68,6 +62,11 @@
 <a href="https://www.mitsubishielectric.com/en/index.html" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Mitsubishi-090909?style=for-the-badge&logo=Mitsubishi&logoColor=red"/>
 </a>
+
+<a href="https://www.honeywell.com/" style="text-align:left;display:block;">
+  <img align="center" src="https://img.shields.io/badge/-Honeywell-090909?style=for-the-badge&logo=Honeywell&logoColor=#E10600"/>
+</a>
+
 </div>
 
 <hr>
