@@ -84,27 +84,26 @@
 
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <hr>
 <h2 align="center" style="text-align:center;">Let's Connect</h2>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
+  <a href="https://t.me/Temirbolat_Maratuly" style="text-align:left;display:block;">
+    <img align="center" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9/">
+  </a>
 
-<a href="https://t.me/Temirbolat_Maratuly" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9/">
-</a>
+  <a href="https://www.instagram.com/temirbolat_maratuly/" style="text-align:left;display:block;">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=B4068E"/>
+  </a>
 
-<a href="https://www.instagram.com/temirbolat_maratuly/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=B4068E"/>
-</a>
+  <a href="https://vk.com/temirbolat009kz" style="text-align:left;display:block;">
+    <img align="center" src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"/>
+  </a>
 
-<a href="https://vk.com/temirbolat009kz" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100009545323566" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"/>
-</a>
+  <a href="https://www.facebook.com/profile.php?id=100009545323566" style="text-align:left;display:block;">
+    <img align="center" src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"/>
+  </a>
 </div>
 
 
