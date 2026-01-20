@@ -5,17 +5,20 @@
 </p>
 
 <hr>
-<h2 align="center" style="text-align:center;">About Me:</h2>
+<h2 align="center" style="text-align:center;">About Me</h2>
 
-## Hello! My name is Temirbolat. I'm a beginner software engineer. I mainly focus on Backend part (Go, Python(DRF)) but want to become an experienced Full Stack programmer. I'm also experienced with industrial programming. See the badges with my knowledge below (from top knowledge low one).
+### Hey there! I'm Temirbolat — a Backend Engineer passionate about building scalable and efficient systems.
+
+🔧 **What I do:** I specialize in backend development with **Python**, crafting robust APIs and services. I'm also comfortable on the frontend, though backend remains my strongest suit — working towards becoming a well-rounded **Full Stack Engineer**.
+
+⚙️ **Industrial Edge:** Beyond web development, I bring hands-on experience with **industrial automation and PLC programming** — bridging the gap between software and real-world systems.
+
+📚 **Tech Stack:** Check out the badges below, ordered by proficiency.
+
 <hr>
 
 <h2 align="center" style="text-align:center;">Languages and Tools:</h2>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
-<a href="https://go.dev/" style="text-align:left;display:block;">
-  <img align="center" src="https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go&logoColor=#00ADD8"/>
-</a>
-
 <a href="https://www.python.org/" style="text-align:left;display:block;">
   <img align="center" src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=#3776AB"/>
 </a>
@@ -51,7 +54,7 @@
 
 <br>
 
-<h2 align="center" style="text-align:center;">Industrial world companies' tools knowledge:</h2>
+<h2 align="center" style="text-align:center;">Industrial Automation Tools</h2>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 
 <a href="https://www.siemens.com/global/en.html" style="text-align:left;display:block;">
@@ -68,7 +71,7 @@
 </div>
 
 <hr>
-<h2 align="center" style="text-align:center;">My statistics</h2>
+<h2 align="center" style="text-align:center;">GitHub Stats</h2>
 
 <div align="center">
 
@@ -81,28 +84,11 @@
 </a>
 
 </div>
+
+<br><br>
+
 <hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<h2 align="center" style="text-align:center;">Follow Me On:</h2>
+<h2 align="center" style="text-align:center;">Let's Connect</h2>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 
 <a href="https://t.me/Temirbolat_Maratuly" style="text-align:left;display:block;">
@@ -125,7 +111,7 @@
 
 <hr>
 <p align="center">
-    <h2 align="center">Thank you for your time and See you next time!</h2>
+    <h2 align="center">Thanks for stopping by!</h2>
   <a align="center" href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
     <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/linda-golden-time-linda.gif" width="900" alt="Welcome gif page"/>
   </a>
