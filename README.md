@@ -5,7 +5,7 @@
 </p>
 
 <hr>
-<h2 align="center" style="text-align:center;">About Me</h2>
+<p align="center"><strong>About Me</strong></p>
 
 ### Hey there! I'm Temirbolat — a Backend Engineer passionate about building scalable and efficient systems.
 
@@ -17,7 +17,7 @@
 
 <hr>
 
-<h2 align="center" style="text-align:center;">Languages and Tools</h2>
+<p align="center"><strong>Languages and Tools</strong></p>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 
 <a href="https://www.python.org/" style="text-align:left;display:block;">
@@ -48,7 +48,7 @@
 
 <br>
 
-<h2 align="center" style="text-align:center;">Industrial Automation Tools</h2>
+<p align="center"><strong>Industrial Automation Tools</strong></p>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
 
 <a href="https://www.siemens.com/global/en.html" style="text-align:left;display:block;">
@@ -70,7 +70,7 @@
 </div>
 
 <hr>
-<h2 align="center" style="text-align:center;">GitHub Stats</h2>
+<p align="center"><strong>GitHub Stats</strong></p>
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 <br clear="both"/>
 
 <hr>
-<h2 align="center" style="text-align:center;">Let's Connect</h2>
+<p align="center"><strong>Let's Connect</strong></p>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content: space-around;">
   <a href="https://t.me/Temirbolat_Maratuly" style="text-align:left;display:block;">
     <img align="center" src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9/">
@@ -109,7 +109,7 @@
 
 <hr>
 <p align="center">
-    <h2 align="center">Thanks for stopping by!</h2>
+    <p align="center"><strong>Thanks for stopping by!</strong></p>
   <a align="center" href="https://www.youtube.com/channel/UCQIi1bgf8Mpl8z_jhb1AWwA">
     <img src="https://github.com/MaratulyTemirbolat/MaratulyTemirbolat/blob/main/assets/linda-golden-time-linda.gif" width="900" alt="Welcome gif page"/>
   </a>
