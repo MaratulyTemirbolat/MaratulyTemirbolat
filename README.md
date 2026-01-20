@@ -84,7 +84,7 @@
 
 </div>
 
-<div style="clear:both"></div>
+<br clear="both"/>
 
 <hr>
 <h2 align="center" style="text-align:center;">Let's Connect</h2>
